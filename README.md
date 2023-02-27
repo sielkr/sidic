@@ -7,3 +7,5 @@
 Sidic - A lightweight attack mitigation service designed for idc
 Made by Syuu (https://github.com/syuukr)
 ```
+
+You need to connect opnsense, pfsense api self

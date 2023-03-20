@@ -16,6 +16,6 @@ run sidic.py will make config file automatically
 
 **Usage**</br>
 To add port: 
-  touch ports/<port_num> </br>
+  touch ports/<port_num>
 To remove port: 
   rm ports/<port_num> 

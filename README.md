@@ -11,8 +11,9 @@ Made by Syuu (https://github.com/syuukr)
 This version is development version, it might have some bugs
 
 **Starting**</br>
-Beforce starting, you need to add opnsense, pfsense api logic by self
-run sidic.py will make config file automatically 
+Beforce starting, you need to add opnsense, pfsense api logic by self</br>
+Or just use iptables, xdp-filter etc.</br>
+*Run sidic.py will make config file automatically
 
 **Usage**</br>
 To add port: 
